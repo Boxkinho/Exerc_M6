@@ -1,0 +1,11 @@
+1 - Abrir os olhos.
+2 - Que dia da semana é hoje? Sim
+  1 - Sábado;
+  2 - Domingo;
+3 - Continuar deitado para dormir novamente.
+4 - Não
+  1 - Pegar o celular.
+  2 - Desligar o despertador.
+  3 - Espregueguiçar o corpo.
+  4 - Dar um bocejo alto.
+  5 - Levantar.
